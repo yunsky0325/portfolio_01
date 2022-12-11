@@ -14,7 +14,7 @@ article .max-container {
     width:100%;
 }
 .article2, .article3, .article4 {
-    padding:50px 0 80px;
+    padding:20px 0 80px;
 }
 
 
@@ -250,7 +250,7 @@ article .max-container {
 /* article4 */
 .article4 h3 {
     font-size:30px;
-    padding: 60px 0px 40px;
+    padding: 30px 0px 40px;
     font-weight: bold;
 }
 
@@ -398,7 +398,7 @@ article .max-container {
     width:100%;
 }
 .article2, .article3, .article4 {
-    padding:50px 0 80px;
+    padding:20px 0 80px;
 }
 
 
@@ -488,7 +488,7 @@ article .max-container {
 
 /* article2 */
 .article2 .container .best-box {
-    margin:60px 0 40px;
+    margin:30px 0 40px;
     display: flex;
     justify-content: space-between;
     color: #00504a;
@@ -644,7 +644,7 @@ article .max-container {
 /* article4 */
 .article4 h3 {
     font-size:30px;
-    padding: 60px 0px 40px;
+    padding: 30px 0px 40px;
     font-weight: bold;
 }
 
