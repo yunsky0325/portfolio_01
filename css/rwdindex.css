@@ -105,7 +105,7 @@ article .max-container {
 
 /* article2 */
 .article2 .container .best-box {
-    margin:60px 0 40px;
+    margin:30px 0 40px;
     display: flex;
     justify-content: space-between;
     color: #00504a;
